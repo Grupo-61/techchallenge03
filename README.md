@@ -9,7 +9,7 @@ Para o Tech Challenge 3, o desafio proposto foi o seguinte:
 
 Para este desafio as entregas devem ser realizadas utilizando bibliotecas de **Tratamento e construção de modelos de Machine Learning**, tais como Pandas e SKLearn e atender aos seguintes **Requisitos/objetivos**:
 
-• **Requisito 1:** construa uma API que colete dados (se possível, em tempo real) e armazene isso em um banco de dados convencional, uma estrutura de DW ou até mesmo um Data Lake (se quiser, utilize a mesma ideia da fase 2, inclusive a fonte de dados).
+• **Requisito 1:** construa uma API que colete dados (se possível, em tempo real) e armazene isso em um banco de dados convencional, uma estrutura de DW ou até mesmo um Data Lake (se quiser, utilize a mesma ideia da Fase 2, inclusive a fonte de dados).
 
 • **Requisito 2:** construa um modelo de ML à sua escolha que utilize essa base de dados para treinar o mesmo.
 
