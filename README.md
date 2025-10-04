@@ -45,7 +45,7 @@ No entanto, duas etapas prévias se tornaram necessárias:
     **Importante**
     
     - O dataset original encontra-se dividido em 7 partes correspondentes aos meses de Outubro/2019, Novembro/2019, Dezembro/2019, Janeiro/2020, Fevereiro/2020, Março/2020 e Abril/2020
-    - Para este cenário, o volume de dados é de 16,45 GB
+    - Para este cenário, o volume de dados é de 16.45 GB
     
     Como não é requisito deste projeto trabalhar com tal volume de dados, decidimos por fazer um recorte de alguns dias de operações de e-commerce:
 
@@ -60,7 +60,7 @@ Após a leitura dos dados (CSV), em seguida, foram trabalhadas as fases do **CRI
 - **Data Preparation:** etapa de limpeza, transformação e formatação dos dados;
 - **Modeling:** aplicação de diferentes técnicas de Machine Learning para construir modelos de dados, para o atendimento dos objetivos de negócio estabelecidos;
 - **Evaluation:** análise dos modelos de dados desenvolvidos para verificar se os critérios de sucesso do negócio bem como qualidade do modelo foram atendidos;
-- **Deployment:** implementação do modelo em produção na forma de uma aplicação e/pu dashboard. A integração do modelo construído com a aplicação/dashboard se deu por meio da exportação de dados para testes, no formato CSV, e modelos treinados, no formato  Pickle.
+- **Deployment:** implementação do modelo em produção na forma de uma aplicação e/pu dashboard. A integração do modelo construído com a aplicação/dashboard se deu por meio da exportação de dados para testes (no formato CSV) e modelos treinados (no formato  Pickle).
 
 **Importante**
 
@@ -68,29 +68,35 @@ Toda a implementação foi feita usando **Python e bibliotecas**, tais como:
 
 - Tratamento de dados e Análises: Pandas
 - Gráficas: MatplotLib e Seaborn
-- Machine Learning - Scikit Learn (SKLearn): RandomForestClassifier e K-Means
+- Machine Learning - Scikit Learn (SKLearn): K-Means, RandomForestClassifier e Logistic Regression 
 - Outras bibliotecas complementares de tratamento e avaliação do modelo tais como StandardScaler, Silhouete Score, Classification Report, Joblib e outras
 - Aplicação com Dashboard: Streamlit
 
 
 ### 📂 Estrutura do projeto
 
+```
+.
 ├── techchallenge03
-│   ├── .git
 │   ├── datasets
 │   ├── streamlitapp
-|- README.md
-|- Tech Challenge 3.ipynb
-
-### 🔩 Arquitetura da solução
-
-A arquitetura da solução foi desenhada com base nos stages necessários ao atendimento de requisitos e consta na pasta de documentação deste repositório. [Link para o Diagrama](inserir figura e link??)
+│ .gitignore
+| README.md
+| requirements.txt
+| Tech Challenge 3.ipynb
+```
 
 
 ## Vídeo de Apresentação no Youtube
 Para melhor compreensão da entrega, foi produzido um vídeo de apresentação que foi publicado no Youtube:
 
-[Link para a Vídeo](inserir link)
+[Link para a Vídeo](https://youtu.be/vcK44DGsT4I) REVISAR
+
+
+## Link Público da  API no Streamlit
+Para o atendimento do Requisito 3, a aplicação foi implementada no StreamLit e pode ser acessada pelo link:
+
+[Link para a Aplicação](https://youtu.be/vcK44DGsT4I) REVISAR
 
 
 ## ✒️ Autores
