@@ -90,13 +90,13 @@ Toda a implementação foi feita usando **Python e bibliotecas**, tais como:
 ## Vídeo de Apresentação no Youtube
 Para melhor compreensão da entrega, foi produzido um vídeo de apresentação que foi publicado no Youtube:
 
-[Link para a Vídeo](https://youtu.be/vcK44DGsT4I)
+[Link para a Vídeo](https://youtu.be/)
 
 
 ## Link Público da  API no Streamlit
 Para o atendimento do Requisito 3, a aplicação foi implementada no StreamLit e pode ser acessada pelo link:
 
-[Link para a Aplicação](https://techchallenge3.streamlit.app/modelo)
+[Link para a Aplicação](https://tech-challenge-3-grupo64.streamlit.app/)
 
 
 ## ✒️ Autores
