@@ -90,7 +90,7 @@ Toda a implementação foi feita usando **Python e bibliotecas**, tais como:
 ## Vídeo de Apresentação no Youtube
 Para melhor compreensão da entrega, foi produzido um vídeo de apresentação que foi publicado no Youtube:
 
-[Link para a Vídeo](https://youtu.be/)
+[Link para a Vídeo](https://www.youtube.com/watch?v=xTFogDyhg9o)
 
 
 ## Link Público da  API no Streamlit
